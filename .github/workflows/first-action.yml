@@ -1,7 +1,7 @@
 name: Fist Action
 on: workflow_dispatch
 jobs:
-  first-job: Greeting Message
+  first-job: 
     runs-on: ubuntu-latest
     steps:
       - name: Print Greeting
